@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "810053659440",
+    "project_id": "localgems-77619",
+    "storage_bucket": "localgems-77619.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810053659440:android:cda065784916e49dbf76f5",
+        "android_client_info": {
+          "package_name": "com.android.application"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "810053659440-7b4qaev06cucbg2ukf5iobjqerscso0a.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.application",
+            "certificate_hash": "f5e960a2711cd4ef9fc902cd654f9df84f394e36"
+          }
+        },
+        {
+          "client_id": "810053659440-vshk6tjn70anbmp050rusdspe8uvsp83.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNAewwHlI0vnP1-3Xq7k7wgF_Qy4O9bPA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "810053659440-vshk6tjn70anbmp050rusdspe8uvsp83.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
